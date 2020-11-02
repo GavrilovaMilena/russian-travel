@@ -1,0 +1,48 @@
+.intro__title {
+    font-style: normal;
+    margin: 0;
+}
+
+@media (min-width: 320px) {
+    .intro__title {
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
+        padding-bottom: 40px;
+        margin-top: 86px;
+        width: 288px;
+    }
+}
+
+@media (min-width: 768px) {
+    .intro__title {
+        font-weight: 900;
+        font-size: 54px;
+        line-height: 58px;
+        padding-bottom: 40px;
+        margin-top: 110px;
+        width: 720px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .intro__title {
+        font-weight: 900;
+        font-size: 54px;
+        line-height: 58px;
+        padding-bottom: 40px;
+        margin-top: 114px;
+        width: 690px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .intro__title {
+        font-weight: 900;
+        font-size: 54px;
+        line-height: 58px;
+        padding-bottom: 40px;
+        margin-top: 114px;
+        width: 690px;
+    }
+}

@@ -1,0 +1,40 @@
+.footer__link {
+    color: #ffffff;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    transition: 1s;
+}
+
+.footer__link:hover {
+    transition: 1s;
+    opacity: .8;
+}
+
+@media (min-width: 320px) {
+    .footer__link {
+        font-size: 24px;
+        line-height: 24px;
+    }
+}
+
+@media (min-width: 768px) {
+    .footer__link {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer__link {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .footer__link {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}

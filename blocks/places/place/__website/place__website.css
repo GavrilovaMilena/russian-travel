@@ -1,0 +1,34 @@
+.place__website {
+    grid-area: website;
+    align-self: flex-end;
+}
+
+@media (min-width: 320px) {
+    .place__website {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .place__website {
+        margin-bottom: 48px;
+        width: 352px;
+        display: block;
+    }
+}
+
+@media (min-width: 1024px) {
+    .place__website {
+        margin-bottom: 48px;
+        width: 456px;
+        display: block;
+    }
+}
+
+@media (min-width: 1280px) {
+    .place__website {
+        margin-bottom: 48px;
+        width: 456px;
+        display: block;
+    }
+}

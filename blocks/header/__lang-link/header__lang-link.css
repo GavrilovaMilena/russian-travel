@@ -1,0 +1,31 @@
+.header__lang-link {
+    align-items: center;
+    font-style: normal;
+    font-weight: normal;
+    gap: 18px;
+    display: flex;
+}
+
+@media (min-width: 320px) {
+    .header__lang-link {
+        margin-right: 16px;
+    }
+}
+
+@media (min-width: 768px) {
+    .header__lang-link {
+        margin-right: 24px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .header__lang-link {
+        margin-right: 48px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .header__lang-link {
+        margin-right: 48px;
+    }
+}

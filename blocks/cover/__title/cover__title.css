@@ -1,0 +1,50 @@
+.cover__title {
+    font-style: normal;
+    color: #ffffff;
+    z-index: 2;
+    text-align: center;
+}
+
+@media (min-width: 320px) {
+    .cover__title {
+        margin-bottom: 16px;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
+        width: 288px;
+        height: 70px;
+    }
+}
+
+@media (min-width: 768px) {
+    .cover__title {
+        margin-bottom: 32px;
+        font-weight: 900;
+        font-size: 72px;
+        line-height: 76px;
+        width: 560px;
+        height: 152px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .cover__title {
+        margin-bottom: 32px;
+        font-weight: 900;
+        font-size: 72px;
+        line-height: 76px;
+        width: 560px;
+        height: 152px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .cover__title {
+        margin-bottom: 32px;
+        font-weight: 900;
+        font-size: 72px;
+        line-height: 76px;
+        width: 560px;
+        height: 152px;
+    }
+}
