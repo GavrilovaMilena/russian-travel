@@ -9,7 +9,7 @@
         font-size: 32px;
         line-height: 35px;
         padding-bottom: 40px;
-        margin-top: 86px;
+        margin: 86px auto 0;
         width: 288px;
     }
 }
@@ -20,7 +20,7 @@
         font-size: 54px;
         line-height: 58px;
         padding-bottom: 40px;
-        margin-top: 110px;
+        margin: 110px auto 0;
         width: 720px;
     }
 }
@@ -31,7 +31,7 @@
         font-size: 54px;
         line-height: 58px;
         padding-bottom: 40px;
-        margin-top: 114px;
+        margin: 114px auto 0;
         width: 690px;
     }
 }
@@ -42,7 +42,7 @@
         font-size: 54px;
         line-height: 58px;
         padding-bottom: 40px;
-        margin-top: 114px;
+        margin: 114px auto 0;
         width: 690px;
     }
 }

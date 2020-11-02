@@ -7,7 +7,7 @@
 @media (min-width: 320px) {
     .header {
         margin-bottom: 48px;
-        width: 288px;
+        width: 100%;
         padding-top: 16px;
     }
 }
@@ -15,20 +15,20 @@
 @media (min-width: 768px) {
     .header {
         margin-bottom: 48px;
-        width: 720px;
+        width: 100%;
     }
 }
 
 @media (min-width: 1024px) {
     .header {
         margin-bottom: 48px;
-        width: 928px;
+        width: 100%;
     }
 }
 
 @media (min-width: 1280px) {
     .header {
         margin-bottom: 56px;
-        width: 1184px;
+        width: 100%;
     }
 }

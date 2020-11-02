@@ -1,13 +1,13 @@
 .cover__background {
     position: absolute;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
 }
 
 @media (min-width: 320px) {
     .cover__background {
         height: 200px;
-        width: 320px;
+        width: 100%;
         background-image: url(../../../images/cover-trains.jpg);
     }
 }
@@ -15,7 +15,7 @@
 @media (min-width: 768px) {
     .cover__background {
         height: 480px;
-        width: 768px;
+        width: 100%;
         background-image: url(../../../images/cover-trains.jpg);
     }
 }
@@ -23,7 +23,7 @@
 @media (min-width: 1024px) {
     .cover__background {
         height: 640px;
-        width: 1024px;
+        width: 100%;
         background-image: url(../../../images/cover-trains.jpg);
     }
 }
@@ -31,7 +31,7 @@
 @media (min-width: 1280px) {
     .cover__background {
         height: 740px;
-        width: 1184px;
+        width: 100%;
         background-image: url(../../../images/cover-trains.jpg);
     }
 }
