@@ -1,10 +1,10 @@
-.header__lang-link {
+.header__lang {
     color: #ffffff;
     text-decoration: none;
 }
 
 @media (min-width: 320px) {
-    .header__lang-link {
+    .header__lang {
         font-size: 18px;
         line-height: 20px;
         margin-left: 18px;
@@ -12,7 +12,7 @@
 }
 
 @media (min-width: 768px) {
-    .header__lang-link {
+    .header__lang {
         font-size: 24px;
         line-height: 28px;
         margin-left: 18px;
@@ -20,7 +20,7 @@
 }
 
 @media (min-width: 1024px) {
-    .header__lang-link {
+    .header__lang {
         font-size: 24px;
         line-height: 28px;
         margin-left: 18px;
@@ -28,7 +28,7 @@
 }
 
 @media (min-width: 1280px) {
-    .header__lang-link {
+    .header__lang {
         font-size: 24px;
         line-height: 28px;
         margin-left: 18px;
