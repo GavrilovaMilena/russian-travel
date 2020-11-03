@@ -1,5 +1,6 @@
 .header__lang-link_active {
     color: #ffffff;
+    text-decoration: underline;
 }
 
 @media (min-width: 320px) {
