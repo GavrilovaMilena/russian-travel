@@ -9,13 +9,13 @@
         padding-bottom: 24px;
         display: flex;
         flex-direction: column;
+        justify-content: space-between;
     }
 }
 
 @media (min-width: 768px) {
     .footer {
         display: flex;
-        justify-content: space-between;
         flex-direction: row;
     }
 }
