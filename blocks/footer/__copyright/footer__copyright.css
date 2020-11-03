@@ -10,33 +10,21 @@
         font-size: 14px;
         line-height: 14px;
         text-align: start;
-        margin-top: 16px;
+        margin-top: 48px;
+        margin-left: 16px;
     }
 }
 
 @media (min-width: 768px) {
     .footer__copyright {
-        font-size: 14px;
         line-height: 16px;
         margin: 0;
-        margin-left: 69px;
+        margin-right: 24px;
     }
 }
 
 @media (min-width: 1024px) {
     .footer__copyright {
-        font-size: 14px;
-        line-height: 16px;
-        margin: 0;
-        margin-left: 277px;
-    }
-}
-
-@media (min-width: 1280px) {
-    .footer__copyright {
-        font-size: 14px;
-        line-height: 16px;
-        margin: 0;
-        margin-left: 533px;
+        margin-right: 48px;
     }
 }

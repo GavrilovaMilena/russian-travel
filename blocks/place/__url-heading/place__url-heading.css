@@ -9,24 +9,12 @@
         font-size: 12px;
         line-height: 12px;
         letter-spacing: 0.2em;
-        width: 352px;
+        max-width: 352px;
     }
 }
 
 @media (min-width: 1024px) {
     .place__url-heading {
-        font-size: 12px;
-        line-height: 12px;
-        letter-spacing: 0.2em;
-        width: 456px;
-    }
-}
-
-@media (min-width: 1280px) {
-    .place__url-heading {
-        font-size: 12px;
-        line-height: 12px;
-        letter-spacing: 0.2em;
-        width: 456px;
+        max-width: 456px;
     }
 }

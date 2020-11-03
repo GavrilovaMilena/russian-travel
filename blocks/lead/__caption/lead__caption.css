@@ -4,7 +4,8 @@
     font-weight: normal;
     font-size: 10px;
     line-height: 14px;
-    width: 158px;
+    max-width: 158px;
+    letter-spacing: 0.15em;
 }
 
 @media (min-width: 320px) {
@@ -21,12 +22,12 @@
 
 @media (min-width: 1024px) {
     .lead__caption {
-        margin: 0;
+        margin-left: 48px;
     }
 }
 
 @media (min-width: 1280px) {
     .lead__caption {
-        margin: 0;
+        margin-left: 148px;
     }
 }

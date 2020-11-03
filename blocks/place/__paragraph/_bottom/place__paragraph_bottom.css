@@ -1,13 +1,13 @@
-.place__paragraph-bottom {
+.place__paragraph_bottom {
     margin: 0;
     width: 100%;
-    grid-area: paragraph-bottom;
+    grid-area: paragraph_bottom;
     font-style: normal;
     font-weight: normal;
 }
 
 @media (min-width: 320px) {
-    .place__paragraph-bottom {
+    .place__paragraph_bottom {
         width: 288px;
         margin: auto;
         font-size: 16px;
@@ -16,7 +16,7 @@
 }
 
 @media (min-width: 768px) {
-    .place__paragraph-bottom {
+    .place__paragraph_bottom {
         width: 352px;
         margin-top: 25px;
         font-size: 18px;
@@ -25,7 +25,7 @@
 }
 
 @media (min-width: 1024px) {
-    .place__paragraph-bottom {
+    .place__paragraph_bottom {
         width: 456px;
         margin-top: 27px;
         font-size: 18px;
@@ -34,7 +34,7 @@
 }
 
 @media (min-width: 1280px) {
-    .place__paragraph-bottom {
+    .place__paragraph_bottom {
         width: 484px;
         margin: 26px 0;
         font-size: 18px;

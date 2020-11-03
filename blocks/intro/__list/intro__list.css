@@ -10,37 +10,20 @@
         font-weight: 700;
         font-size: 12px;
         line-height: 18px;
-        width: 288px;
+        max-width: 288px;
         margin: 0 auto;
     }
 }
 
 @media (min-width: 768px) {
     .intro__list {
-        font-weight: 700;
-        font-size: 12px;
-        line-height: 18px;
-        width: 720px;
-        margin: 0 auto;
+        max-width: 720px;
     }
 }
 
 @media (min-width: 1024px) {
     .intro__list {
-        font-weight: 700;
-        font-size: 12px;
-        line-height: 18px;
-        width: 690px;
-        margin: 0 auto;
-    }
-}
-
-@media (min-width: 1280px) {
-    .intro__list {
-        font-weight: 700;
-        font-size: 12px;
-        line-height: 18px;
-        width: 690px;
-        margin: 0 auto;
+        max-width: 690px;
+        margin: 0;
     }
 }

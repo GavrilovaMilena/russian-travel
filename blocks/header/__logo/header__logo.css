@@ -1,14 +1,7 @@
-.header__logo {
-    position: absolute;
-    
-}
-
 @media (min-width: 320px) {
     .header__logo {
         width: 142px;
         height: 42px;
-        left: 16px;
-        top: 16px;
         margin-left: 16px;
     }
 }
@@ -17,28 +10,12 @@
     .header__logo {
         width: 176px;
         height: 52px;
-        left: 24px;
-        top: 28px;
         margin-left: 24px;
     }
 }
 
 @media (min-width: 1024px) {
     .header__logo {
-        width: 176px;
-        height: 52px;
-        left: 48px;
-        top: 28px;
-        margin-left: 48px;
-    }
-}
-
-@media (min-width: 1280px) {
-    .header__logo {
-        width: 176px;
-        height: 52px;
-        left: 48px;
-        top: 28px;
         margin-left: 48px;
     }
 }

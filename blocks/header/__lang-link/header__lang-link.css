@@ -1,35 +1,36 @@
 .header__lang-link {
-    align-items: center;
-    font-style: normal;
-    font-weight: normal;
-    display: flex;
-    margin: 0;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 @media (min-width: 320px) {
     .header__lang-link {
-        margin-right: 16px;
-        margin-top: 14px;
+        font-size: 18px;
+        line-height: 20px;
+        margin-left: 18px;
     }
 }
 
 @media (min-width: 768px) {
     .header__lang-link {
-        margin-right: 24px;
-        margin-top: 30px;
+        font-size: 24px;
+        line-height: 28px;
+        margin-left: 18px;
     }
 }
 
 @media (min-width: 1024px) {
     .header__lang-link {
-        margin-right: 48px;
-        margin-top: 30px;
+        font-size: 24px;
+        line-height: 28px;
+        margin-left: 18px;
     }
 }
 
 @media (min-width: 1280px) {
     .header__lang-link {
-        margin-right: 48px;
-        margin-top: 30px;
+        font-size: 24px;
+        line-height: 28px;
+        margin-left: 18px;
     }
 }

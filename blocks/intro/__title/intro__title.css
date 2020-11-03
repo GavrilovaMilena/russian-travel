@@ -9,40 +9,20 @@
         font-size: 32px;
         line-height: 35px;
         padding-bottom: 40px;
-        margin: 86px auto 0;
-        width: 288px;
+        max-width: 288px;
     }
 }
 
 @media (min-width: 768px) {
     .intro__title {
-        font-weight: 900;
         font-size: 54px;
         line-height: 58px;
-        padding-bottom: 40px;
-        margin: 110px auto 0;
-        width: 720px;
+        max-width: 720px;
     }
 }
 
 @media (min-width: 1024px) {
     .intro__title {
-        font-weight: 900;
-        font-size: 54px;
-        line-height: 58px;
-        padding-bottom: 40px;
-        margin: 114px auto 0;
-        width: 690px;
-    }
-}
-
-@media (min-width: 1280px) {
-    .intro__title {
-        font-weight: 900;
-        font-size: 54px;
-        line-height: 58px;
-        padding-bottom: 40px;
-        margin: 114px auto 0;
-        width: 690px;
+        max-width: 690px;
     }
 }

@@ -10,20 +10,8 @@
     }
 }
 
-@media (min-width: 768px) {
-    .page {
-        width: 100%;
-    }
-}
-
-@media (min-width: 1024px) {
-    .page {
-        width: 100%;
-    }
-}
-
 @media (min-width: 1280px) {
     .page {
-        width: 100%;
+        max-width: 1280px;
     }
 }

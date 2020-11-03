@@ -9,7 +9,3 @@
     bottom: 0;
     transition: 1s;
 }
-.cover:hover .cover__overlay {
-    transition: 1s;
-    opacity: .8;
-}
